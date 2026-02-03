@@ -8,7 +8,7 @@ class ReportPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: const Text("Laporan"), backgroundColor: Colors.blue),
-      body: const Center(child: Text("Halaman Report")),
+      body: const Center(child: Text("Halaman Reportabcdefg")),
     );
   }
 }
