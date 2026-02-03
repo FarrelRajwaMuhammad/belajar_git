@@ -1,3 +1,4 @@
-git update-index  --skip-worktree pubspec.yaml
-git update-index  --skip-worktree pubspec.lock
-git update-index  --skip-worktree lib/report/report.dart
+pubspec.yaml merge=ours
+pubspec.lock merge=ours
+
+lib/widget/report/report.dart merge=ours
